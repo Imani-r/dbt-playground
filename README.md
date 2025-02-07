@@ -1,1 +1,1 @@
-# dbt-training
+# dbt-playground
